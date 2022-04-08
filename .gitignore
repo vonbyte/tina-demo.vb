@@ -30,3 +30,11 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# custom
+/_bak/
+
+# IDE
+/.idea/
+
+
